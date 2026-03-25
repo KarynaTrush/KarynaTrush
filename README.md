@@ -26,7 +26,7 @@ I'm a 3rd-year student passionate about **Software Quality, Development, and Mac
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KarynaTrush&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=ffffff&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarynaTrush&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=ffffff&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarynaTrush&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=ffffff&langs_count=8&fork=true" alt="Top Languages" />
 </p>
 
 ---
