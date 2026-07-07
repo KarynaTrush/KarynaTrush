@@ -1,4 +1,4 @@
-# Hi there, I'm Karyna! 👋
+# Hi there, I'm Karina! 👋
 
 ### 🎓 Computer Science Student at Opole University of Technology
 I'm a 3rd-year student passionate about **Software Quality, Development, and Machine Learning**. Currently working on my Engineering Thesis focused on an adaptive recommendation system for Chinese language learning.
